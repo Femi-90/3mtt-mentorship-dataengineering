@@ -1,0 +1,201 @@
+merchant_id,merchant_name,merchant_category,city,country,merchant_risk,is_blacklisted
+MER0001,FastFuel 1,Fuel,Delhi,India,MEDIUM,False
+MER0002,Tasty Table 2,Restaurant,Hyderabad,India,LOW,False
+MER0003,Grand Stay 3,Hotel,Jaipur,India,LOW,False
+MER0004,ElectroMart 4,Electronics,Delhi,India,LOW,False
+MER0005,Royal Gems 5,Jewellery,Hyderabad,India,LOW,False
+MER0006,Bank ATM 6,ATM,Jaipur,India,LOW,False
+MER0007,Pharma Express 7,Pharmacy,Hyderabad,India,LOW,False
+MER0008,Mall Mart 8,Shopping,Delhi,India,MEDIUM,False
+MER0009,Orbit Air 9,Airline,Pune,India,LOW,False
+MER0010,Cinema City 10,Entertainment,Hyderabad,India,HIGH,False
+MER0011,TravelEase 11,Travel,Mumbai,India,LOW,False
+MER0012,FreshMart 12,Grocery,Kolkata,India,MEDIUM,False
+MER0013,PetroPoint 13,Fuel,Delhi,India,MEDIUM,False
+MER0014,Bistro Hub 14,Restaurant,Pune,India,LOW,False
+MER0015,Skyline Hotel 15,Hotel,Singapore,Singapore,LOW,False
+MER0016,TechWorld 16,Electronics,Delhi,India,MEDIUM,False
+MER0017,Diamond Lane 17,Jewellery,Mumbai,India,MEDIUM,False
+MER0018,Bank ATM 18,ATM,Pune,India,LOW,False
+MER0019,Wellness Plus 19,Pharmacy,Bengaluru,India,LOW,False
+MER0020,MarketPlace 20,Shopping,Chennai,India,MEDIUM,True
+MER0021,SkyFly 21,Airline,Lucknow,India,LOW,False
+MER0022,Cinema City 22,Entertainment,Bengaluru,India,LOW,False
+MER0023,TravelEase 23,Travel,Jaipur,India,LOW,False
+MER0024,Grocer Go 24,Grocery,Delhi,India,LOW,False
+MER0025,FastFuel 25,Fuel,Kolkata,India,LOW,False
+MER0026,Bistro Hub 26,Restaurant,Hyderabad,India,HIGH,False
+MER0027,Skyline Hotel 27,Hotel,Hyderabad,India,MEDIUM,False
+MER0028,ElectroMart 28,Electronics,Ahmedabad,India,LOW,False
+MER0029,Royal Gems 29,Jewellery,Hyderabad,India,MEDIUM,False
+MER0030,Quick Cash 30,ATM,New York,United States,MEDIUM,False
+MER0031,Pharma Express 31,Pharmacy,Kolkata,India,LOW,False
+MER0032,MarketPlace 32,Shopping,Jaipur,India,LOW,False
+MER0033,SkyFly 33,Airline,Mumbai,India,LOW,False
+MER0034,Cinema City 34,Entertainment,Pune,India,LOW,False
+MER0035,WanderGo 35,Travel,Pune,India,LOW,False
+MER0036,City Pantry 36,Grocery,Jaipur,India,LOW,False
+MER0037,FastFuel 37,Fuel,Mumbai,India,MEDIUM,False
+MER0038,Spice Avenue 38,Restaurant,Kolkata,India,LOW,False
+MER0039,Holiday Lodge 39,Hotel,Bengaluru,India,LOW,False
+MER0040,Gadget Plaza 40,Electronics,Jaipur,India,MEDIUM,True
+MER0041,Sparkle Gold 41,Jewellery,Chennai,India,MEDIUM,False
+MER0042,CashPoint 42,ATM,Bengaluru,India,LOW,False
+MER0043,HealthFirst 43,Pharmacy,Jaipur,India,HIGH,False
+MER0044,ShopSphere 44,Shopping,Lucknow,India,LOW,False
+MER0045,SkyFly 45,Airline,London,United Kingdom,HIGH,False
+MER0046,PlayLand 46,Entertainment,Hyderabad,India,LOW,False
+MER0047,TripVista 47,Travel,Mumbai,India,MEDIUM,False
+MER0048,FreshMart 48,Grocery,Jaipur,India,MEDIUM,False
+MER0049,Highway Gas 49,Fuel,Ahmedabad,India,HIGH,False
+MER0050,Tasty Table 50,Restaurant,Chennai,India,LOW,False
+MER0051,Holiday Lodge 51,Hotel,Hyderabad,India,HIGH,False
+MER0052,Digital Hub 52,Electronics,Chennai,India,LOW,False
+MER0053,Diamond Lane 53,Jewellery,Ahmedabad,India,MEDIUM,False
+MER0054,Money Access 54,ATM,Mumbai,India,LOW,False
+MER0055,MediCare 55,Pharmacy,Kolkata,India,LOW,False
+MER0056,MarketPlace 56,Shopping,Lucknow,India,LOW,False
+MER0057,SkyFly 57,Airline,Delhi,India,LOW,False
+MER0058,FunZone 58,Entertainment,Kolkata,India,LOW,False
+MER0059,Globe Trek 59,Travel,Chennai,India,MEDIUM,False
+MER0060,Daily Needs 60,Grocery,Dubai,UAE,MEDIUM,True
+MER0061,FuelX 61,Fuel,Hyderabad,India,MEDIUM,False
+MER0062,Cafe Delight 62,Restaurant,Hyderabad,India,LOW,False
+MER0063,Holiday Lodge 63,Hotel,Kolkata,India,LOW,False
+MER0064,ElectroMart 64,Electronics,Delhi,India,MEDIUM,False
+MER0065,Sparkle Gold 65,Jewellery,Delhi,India,LOW,False
+MER0066,Quick Cash 66,ATM,Mumbai,India,LOW,False
+MER0067,HealthFirst 67,Pharmacy,Jaipur,India,LOW,False
+MER0068,Retail City 68,Shopping,Bengaluru,India,LOW,False
+MER0069,Orbit Air 69,Airline,Mumbai,India,LOW,False
+MER0070,FunZone 70,Entertainment,Delhi,India,MEDIUM,False
+MER0071,TripVista 71,Travel,Mumbai,India,HIGH,False
+MER0072,Daily Needs 72,Grocery,Bengaluru,India,LOW,False
+MER0073,FuelX 73,Fuel,Hyderabad,India,MEDIUM,False
+MER0074,Bistro Hub 74,Restaurant,Bengaluru,India,LOW,False
+MER0075,Holiday Lodge 75,Hotel,Singapore,Singapore,HIGH,False
+MER0076,ElectroMart 76,Electronics,Chennai,India,LOW,False
+MER0077,LuxJewels 77,Jewellery,Bengaluru,India,LOW,False
+MER0078,CashPoint 78,ATM,Delhi,India,LOW,False
+MER0079,MediCare 79,Pharmacy,Kolkata,India,LOW,False
+MER0080,Retail City 80,Shopping,Jaipur,India,HIGH,True
+MER0081,Orbit Air 81,Airline,Delhi,India,HIGH,False
+MER0082,FunZone 82,Entertainment,Bengaluru,India,LOW,False
+MER0083,TripVista 83,Travel,Hyderabad,India,LOW,False
+MER0084,Daily Needs 84,Grocery,Lucknow,India,LOW,False
+MER0085,FastFuel 85,Fuel,Pune,India,MEDIUM,False
+MER0086,Spice Avenue 86,Restaurant,Chennai,India,LOW,False
+MER0087,Skyline Hotel 87,Hotel,Hyderabad,India,LOW,False
+MER0088,Digital Hub 88,Electronics,Chennai,India,LOW,False
+MER0089,Sparkle Gold 89,Jewellery,Delhi,India,LOW,False
+MER0090,Bank ATM 90,ATM,London,United Kingdom,LOW,False
+MER0091,Wellness Plus 91,Pharmacy,Bengaluru,India,HIGH,False
+MER0092,ShopSphere 92,Shopping,Hyderabad,India,LOW,False
+MER0093,Orbit Air 93,Airline,Ahmedabad,India,MEDIUM,False
+MER0094,PlayLand 94,Entertainment,Lucknow,India,HIGH,False
+MER0095,TripVista 95,Travel,Jaipur,India,LOW,False
+MER0096,FreshMart 96,Grocery,Bengaluru,India,LOW,False
+MER0097,FastFuel 97,Fuel,Jaipur,India,LOW,False
+MER0098,Spice Avenue 98,Restaurant,Lucknow,India,LOW,False
+MER0099,Skyline Hotel 99,Hotel,Hyderabad,India,MEDIUM,False
+MER0100,Gadget Plaza 100,Electronics,Jaipur,India,LOW,True
+MER0101,Sparkle Gold 101,Jewellery,Mumbai,India,LOW,False
+MER0102,Quick Cash 102,ATM,Delhi,India,LOW,False
+MER0103,HealthFirst 103,Pharmacy,Chennai,India,LOW,False
+MER0104,Retail City 104,Shopping,Jaipur,India,MEDIUM,False
+MER0105,SkyFly 105,Airline,London,United Kingdom,LOW,False
+MER0106,Cinema City 106,Entertainment,Jaipur,India,LOW,False
+MER0107,TravelEase 107,Travel,Lucknow,India,LOW,False
+MER0108,City Pantry 108,Grocery,Bengaluru,India,LOW,False
+MER0109,PetroPoint 109,Fuel,Delhi,India,MEDIUM,False
+MER0110,Tasty Table 110,Restaurant,Hyderabad,India,MEDIUM,False
+MER0111,Skyline Hotel 111,Hotel,Jaipur,India,MEDIUM,False
+MER0112,ElectroMart 112,Electronics,Lucknow,India,MEDIUM,False
+MER0113,Royal Gems 113,Jewellery,Bengaluru,India,HIGH,False
+MER0114,CashPoint 114,ATM,Pune,India,LOW,False
+MER0115,Wellness Plus 115,Pharmacy,Pune,India,MEDIUM,False
+MER0116,MarketPlace 116,Shopping,Chennai,India,LOW,False
+MER0117,SkyFly 117,Airline,Pune,India,MEDIUM,False
+MER0118,EventHub 118,Entertainment,Hyderabad,India,LOW,False
+MER0119,WanderGo 119,Travel,Kolkata,India,LOW,False
+MER0120,Daily Needs 120,Grocery,Dubai,UAE,LOW,True
+MER0121,Highway Gas 121,Fuel,Pune,India,LOW,False
+MER0122,Bistro Hub 122,Restaurant,Chennai,India,LOW,False
+MER0123,Holiday Lodge 123,Hotel,Jaipur,India,LOW,False
+MER0124,TechWorld 124,Electronics,Mumbai,India,MEDIUM,False
+MER0125,Diamond Lane 125,Jewellery,Bengaluru,India,LOW,False
+MER0126,Quick Cash 126,ATM,Delhi,India,LOW,False
+MER0127,Pharma Express 127,Pharmacy,Kolkata,India,MEDIUM,False
+MER0128,Mall Mart 128,Shopping,Pune,India,LOW,False
+MER0129,SkyFly 129,Airline,Pune,India,MEDIUM,False
+MER0130,Cinema City 130,Entertainment,Chennai,India,LOW,False
+MER0131,WanderGo 131,Travel,Delhi,India,LOW,False
+MER0132,Daily Needs 132,Grocery,Kolkata,India,LOW,False
+MER0133,PetroPoint 133,Fuel,Lucknow,India,LOW,False
+MER0134,Bistro Hub 134,Restaurant,Chennai,India,LOW,False
+MER0135,Holiday Lodge 135,Hotel,Singapore,Singapore,LOW,False
+MER0136,Gadget Plaza 136,Electronics,Jaipur,India,LOW,False
+MER0137,LuxJewels 137,Jewellery,Pune,India,MEDIUM,False
+MER0138,CashPoint 138,ATM,Lucknow,India,LOW,False
+MER0139,Pharma Express 139,Pharmacy,Jaipur,India,MEDIUM,False
+MER0140,Mall Mart 140,Shopping,Chennai,India,LOW,True
+MER0141,AirMetro 141,Airline,Ahmedabad,India,LOW,False
+MER0142,Cinema City 142,Entertainment,Jaipur,India,LOW,False
+MER0143,Globe Trek 143,Travel,Mumbai,India,LOW,False
+MER0144,Grocer Go 144,Grocery,Mumbai,India,MEDIUM,False
+MER0145,Highway Gas 145,Fuel,Chennai,India,LOW,False
+MER0146,Tasty Table 146,Restaurant,Bengaluru,India,LOW,False
+MER0147,Comfort Inn 147,Hotel,Ahmedabad,India,LOW,False
+MER0148,TechWorld 148,Electronics,Ahmedabad,India,LOW,False
+MER0149,Royal Gems 149,Jewellery,Pune,India,LOW,False
+MER0150,CashPoint 150,ATM,Dubai,UAE,MEDIUM,False
+MER0151,MediCare 151,Pharmacy,Mumbai,India,MEDIUM,False
+MER0152,MarketPlace 152,Shopping,Bengaluru,India,MEDIUM,False
+MER0153,FlightLink 153,Airline,Delhi,India,LOW,False
+MER0154,FunZone 154,Entertainment,Ahmedabad,India,LOW,False
+MER0155,WanderGo 155,Travel,Jaipur,India,HIGH,False
+MER0156,Grocer Go 156,Grocery,Ahmedabad,India,LOW,False
+MER0157,FuelX 157,Fuel,Jaipur,India,LOW,False
+MER0158,Tasty Table 158,Restaurant,Ahmedabad,India,LOW,False
+MER0159,Comfort Inn 159,Hotel,Chennai,India,MEDIUM,False
+MER0160,ElectroMart 160,Electronics,Hyderabad,India,LOW,True
+MER0161,Sparkle Gold 161,Jewellery,Chennai,India,LOW,False
+MER0162,Quick Cash 162,ATM,Kolkata,India,MEDIUM,False
+MER0163,MediCare 163,Pharmacy,Bengaluru,India,LOW,False
+MER0164,Retail City 164,Shopping,Bengaluru,India,MEDIUM,False
+MER0165,SkyFly 165,Airline,New York,United States,LOW,False
+MER0166,EventHub 166,Entertainment,Pune,India,LOW,False
+MER0167,WanderGo 167,Travel,Pune,India,HIGH,False
+MER0168,FreshMart 168,Grocery,Lucknow,India,LOW,False
+MER0169,FastFuel 169,Fuel,Kolkata,India,LOW,False
+MER0170,Cafe Delight 170,Restaurant,Pune,India,LOW,False
+MER0171,Comfort Inn 171,Hotel,Ahmedabad,India,LOW,False
+MER0172,ElectroMart 172,Electronics,Ahmedabad,India,LOW,False
+MER0173,Diamond Lane 173,Jewellery,Pune,India,MEDIUM,False
+MER0174,Money Access 174,ATM,Bengaluru,India,HIGH,False
+MER0175,MediCare 175,Pharmacy,Pune,India,LOW,False
+MER0176,ShopSphere 176,Shopping,Mumbai,India,LOW,False
+MER0177,Orbit Air 177,Airline,Ahmedabad,India,LOW,False
+MER0178,PlayLand 178,Entertainment,Pune,India,LOW,False
+MER0179,WanderGo 179,Travel,Kolkata,India,LOW,False
+MER0180,City Pantry 180,Grocery,Singapore,Singapore,MEDIUM,True
+MER0181,FuelX 181,Fuel,Chennai,India,MEDIUM,False
+MER0182,Cafe Delight 182,Restaurant,Delhi,India,MEDIUM,False
+MER0183,Grand Stay 183,Hotel,Kolkata,India,LOW,False
+MER0184,TechWorld 184,Electronics,Delhi,India,MEDIUM,False
+MER0185,Royal Gems 185,Jewellery,Hyderabad,India,MEDIUM,False
+MER0186,CashPoint 186,ATM,Hyderabad,India,LOW,False
+MER0187,MediCare 187,Pharmacy,Lucknow,India,HIGH,False
+MER0188,Retail City 188,Shopping,Chennai,India,MEDIUM,False
+MER0189,Orbit Air 189,Airline,Lucknow,India,LOW,False
+MER0190,FunZone 190,Entertainment,Bengaluru,India,HIGH,False
+MER0191,TripVista 191,Travel,Lucknow,India,LOW,False
+MER0192,Grocer Go 192,Grocery,Lucknow,India,MEDIUM,False
+MER0193,FuelX 193,Fuel,Pune,India,HIGH,False
+MER0194,Tasty Table 194,Restaurant,Mumbai,India,LOW,False
+MER0195,Comfort Inn 195,Hotel,London,United Kingdom,MEDIUM,False
+MER0196,Gadget Plaza 196,Electronics,Lucknow,India,MEDIUM,False
+MER0197,Sparkle Gold 197,Jewellery,Kolkata,India,LOW,False
+MER0198,Quick Cash 198,ATM,Mumbai,India,LOW,False
+MER0199,Wellness Plus 199,Pharmacy,Delhi,India,MEDIUM,False
+MER0200,Retail City 200,Shopping,Mumbai,India,LOW,True
